@@ -1,2 +1,2 @@
 # test
-<h1><b> TESTING 123 </b></h1>
+<center><h1> TESTING 123 </h1></center>
